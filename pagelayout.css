@@ -1,0 +1,70 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	background-color: #f48c42;
+
+}
+.personal-info {
+	text-align: center;
+	margin: 45px auto;
+	width: 35%;
+	
+}
+
+.work, .education {
+	width:50%;
+
+}
+
+.work-wrapper {
+	margin-left: 175px;
+}
+
+.education {
+	float:right;
+}
+
+.references, .work {
+	float:left;
+}
+
+.references {
+	width:100%;
+	text-align:center;
+	margin: 45px;
+}
+
+.education-wrapper {
+	margin-left: 175px;
+}
+
+
+.header {
+	font-size: 35px;
+	text-decoration: underline;
+}
+
+.jobs, .school, .reference { margin-top: 20px; 
+ }
+
+ .name {
+ 	font-size:40px;
+ }
+
+ .address {
+ 	font-size:20px;
+ }
+
+ .title {
+ 	font-size: 20px;
+ 	font-weight: bold;
+ }
+
+ .job-info {
+ 	list-style: disc;
+ 	padding-left: 35px;
+ }
+
+ .border {
+ 	border: inset;
+ }
+ 
